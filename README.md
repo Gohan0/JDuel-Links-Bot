@@ -4,16 +4,17 @@ This is an ultimate all-in-one modding tool and farming bot for the [**`Yu-Gi-Oh
 
 ## Features
 
-- Autonomously botting casual duels/gate duelists/standard duelists/event duels (**the free version of the bot is complete but time limited**)
+- [Autonomously botting casual duels/gate duelists/standard duelists/event duels](https://www.youtube.com/watch?v=1kCY26XukbY) (**the free version of the bot is complete but time limited**)
 - Pause/Resume/Restart game
-- Universal Game Speed hack
+- [Universal Game Speed hack](https://www.youtube.com/watch?v=07OnsChYHKw)
 - Duel Links specific and up-to-date card database with card search and card images
 - Fun Modifications to modify skills, the creator table, the duel world music and more
 - Permanent mod patcher (**donators only**): Apply certain mods persistently throughout restarts of the game
-- PvE Randomize duel assessment score with different cheating profiles (**donators only**): Always get 8000 score/8 treasure chests and unlock most tedious missions instantly
-- PvP ~~opponent's deck and~~ live duel spy (**donators only**): See all face-downs and 1 card in your opponent's hand
+- PvE Randomize duel assessment score with different cheating profiles (**donators only**): [Always get 8000 score/8 treasure chests and unlock most tedious missions instantly](https://www.youtube.com/watch?v=I8v7qmRXdU8)
+- PvP ~~opponent's deck and~~ live duel spy (**donators only**): [See all face-downs and 1 card in your opponent's hand](https://www.youtube.com/watch?v=GlKjA5UyYn8)
 - PvE spoof played cards (**donators only**): Instant/Easy mission `Summon card X times` completions and unlocks
-- PvE duel spoofer (**donators only**): Play any (unreleased) characters and decks you want
+- PvE duel spoofer (**donators only**): [Play any (unreleased) characters and decks you want](https://www.youtube.com/watch?v=GNz32fDw7gI)
+- Duel Generator (**donators only**): [Fast and efficient in-background farming of duels for massive XP, gems, level-up rewards etc.](https://www.youtube.com/watch?v=TV-OYoWOslU) in PvE and PvP
 - ... potentially more
 
 ## Download
