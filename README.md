@@ -6,6 +6,13 @@ This is an ultimate all-in-one modding tool and farming bot for the [**`Yu-Gi-Oh
 
 - [Autonomously botting casual duels/gate duelists/standard duelists/event duels](https://www.youtube.com/watch?v=1kCY26XukbY) (**the free version of the bot is complete but time limited**)
 - Pause/Resume/Restart game
+- [Drool Links Saliva Mod Menu](https://www.youtube.com/watch?v=SD3Ca2HwL2s) (**donators only**):
+  * [PvP Duel Bot](https://www.youtube.com/watch?v=2j-9CgP1i8Q): Let the bot duel for you in PvP
+  * [Unlock All Cards](https://www.youtube.com/watch?v=XKKJFMas5Vc): Cannot use the cards in Duels though
+  * [Network Bot](https://www.youtube.com/watch?v=C9dwcNx8CnQ): Farm duels autonomously in the background in 2 - 3 seconds per duel
+  * [Duel Spy](https://www.youtube.com/watch?v=Q-ThsjYC4P0): See your entire deck ordering + PvP live duel spy features from below
+  * [Randomized Duel Customization](https://www.youtube.com/watch?v=HHZTL-FUW_8): Music, Background, Mats, Sleeves, Characters, etc.
+  * potentially more...
 - [Universal Game Speed hack](https://www.youtube.com/watch?v=07OnsChYHKw)
 - Duel Links specific and up-to-date card database with card search and card images
 - Fun Modifications to modify skills, the creator table, the duel world music and more
