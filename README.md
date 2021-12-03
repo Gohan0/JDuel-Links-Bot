@@ -8,7 +8,7 @@ This is an ultimate all-in-one modding tool and farming bot for the [**`Yu-Gi-Oh
 - Pause/Resume/Restart game
 - [Drool Links Saliva Mod Menu](https://www.youtube.com/watch?v=SD3Ca2HwL2s) (**donators only**):
   * [PvP Duel Bot](https://www.youtube.com/watch?v=2j-9CgP1i8Q): Let the bot duel for you in PvP
-    * [PvP end duel in a tie in the first turn](https://www.youtube.com/watch?v=0UDbezZA-0M) (donators only)
+    * [PvP end duel in a tie in the first turn](https://www.youtube.com/watch?v=0UDbezZA-0M) **(donators only)**
   * [Unlock All Cards](https://www.youtube.com/watch?v=XKKJFMas5Vc): Cannot use the cards in Duels though
   * [Network Bot](https://www.youtube.com/watch?v=C9dwcNx8CnQ): Farm duels autonomously in the background in 2 - 3 seconds per duel
   * [Duel Spy](https://www.youtube.com/watch?v=Q-ThsjYC4P0): See your entire deck ordering ~~+ PvP live duel spy features from below~~
