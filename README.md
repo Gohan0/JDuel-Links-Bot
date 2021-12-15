@@ -1,6 +1,10 @@
 # JDuel Links Bot
 
-This is an ultimate all-in-one modding tool and farming bot for the [**`Yu-Gi-Oh! Duel Links` Steam version**](https://store.steampowered.com/app/601510/YuGiOh_Duel_Links) trying to fulfill all of your modding and botting needs.
+This is an ultimate all-in-one modding tool and farming bot for the [**`Yu-Gi-Oh! Duel Links` Steam version**](https://store.steampowered.com/app/601510/YuGiOh_Duel_Links) trying to fulfill all of your modding and botting needs. This bot's cheats can also be used on the [Japanese Yahoo client](https://games.yahoo.co.jp/yugioh/duel_links) but not all features (especially the bot aspect) will work.
+
+## Download
+
+The download is free so don't hesitate to check it out and see if you like it. You can download the application from the GitHub Releases tab [**here**](https://github.com/BullyWiiPlaza/JDuel-Links-Bot/releases/latest).
 
 ## Features
 
@@ -25,21 +29,34 @@ This is an ultimate all-in-one modding tool and farming bot for the [**`Yu-Gi-Oh
 - Duel Generator (**donators only**): [Fast and efficient in-background farming of duels for massive XP, gems, level-up rewards etc.](https://www.youtube.com/watch?v=TV-OYoWOslU) in PvE and PvP
 - ... potentially more
 
-## Download
+## Operating System Support
 
-The download is free so don't hesitate to check it out and see if you like it. You can download the application from the GitHub Releases tab [**here**](https://github.com/BullyWiiPlaza/JDuel-Links-Bot/releases/latest).
+* Windows 7 64-Bit
+* Windows 8/8.1 64-Bit
+* Windows 10 64-Bit
+* Windows 11 64-Bit
 
-## Requirements
+**Note:**
+Other operating systems and 32-bit operating systems are not supported, notably Mac OS X, Android, iOS or all other Desktop flavors of Linux.
 
-This bot works on `Windows 7 64-bit` and above with an installed `Java 8 64-bit` (and above). `Mac` and `Linux` are **not** supported. Also mobile such as iOS or Android are **not** supported. There is no mobile version of this bot and there is no possibility one will be made.
+**Technical reasoning:**
+The bot heavily relies on the Windows API and memory hacking is usually a very operating system specific task which cannot be abstracted away easily. The memory addresses, architecture and game executable layout might drastically differ as well due to different compilers etc. for non-Windows platforms which make generic code supporting different operating systems yet another nearly impossible task.
+
+Furthermore, you cannot make a bot or cheats the same way on e.g. Android due to security restrictions. Even simple APK modding got harder to do on recent Android versions. Either way, you probably need a rooted phone to do anything advanced like this bot. Most people don't have a rooted phone (me included).
+
+In conclusion, get or use a Windows PC to enjoy the full benefits of the bot. Every family should have one. Even if it's older, it should work fine for the most part.
+
+## Runtime Requirements
+
+For this bot you need to install `Java 8 64-bit` (or above). [Java 17](https://download.oracle.com/java/17/archive/jdk-17.0.1_windows-x64_bin.exe) is recommended though.
 
 Check the `README.txt` in the download archive for more information on how to set this tool up.
 
 ## Bugs and Feature Requests
 
-I appreciate any kind of feedback so I can improve the program by fixing issues and adding more useful features since **this tool is actively being developed**.
+I appreciate any kind of feedback so I can improve the bot by fixing issues and adding more useful features since **this bot is actively being developed**.
 
-You may create an issue directly here on `GitHub` or contact me privately using one of the contact methods below.
+You may create an issue directly here on `GitHub`, post in the Discord server or contact me privately using one of the contact methods below.
 
 ## Contact
 
