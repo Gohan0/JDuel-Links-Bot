@@ -62,7 +62,7 @@ You may create an issue directly here on `GitHub`, post in the Discord server or
 
 ## Contact
 
-- [**YouTube channel**](https://www.youtube.com/user/BullyWiiPlaza)
-- bullywiihacks AT gmail DOT com (e-mail)
-- BullyWiiPlaza#3947 ([**Discord**](https://discordapp.com))
-- [**Forum with `JDuel Links Bot` tutorials**](https://bullywiihacks.forumotion.com/f208-)
+- [YouTube](https://www.youtube.com/user/BullyWiiPlaza)
+- bullywiihacks AT gmail DOT com (E-Mail)
+- [Discord](https://discord.gg/5JcvrUg) (BullyWiiPlaza#3947)
+- [Forum](https://bullywiihacks.forumotion.com/f208-)
