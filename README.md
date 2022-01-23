@@ -2,9 +2,11 @@
 
 This is an ultimate all-in-one modding tool and farming bot for the [**`Yu-Gi-Oh! Duel Links` Steam version**](https://store.steampowered.com/app/601510/YuGiOh_Duel_Links) trying to fulfill all of your modding and botting needs. This bot's cheats can also be used on the [Japanese Yahoo client](https://games.yahoo.co.jp/yugioh/duel_links) but not all features (especially the bot aspect) will work.
 
+*Also feel free to check out our work for [Yu-Gi-Oh! Master Duel](https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel) here: [JMaster-Duel-Bot](../../../JMaster-Duel-Bot).*
+
 ## Download
 
-The download is free so don't hesitate to check it out and see if you like it. You can download the application from the GitHub Releases tab [**here**](https://github.com/BullyWiiPlaza/JDuel-Links-Bot/releases/latest).
+You can download the application from the [GitHub Releases tab](../../releases/latest). Check out the README for further setup instructions.
 
 ## Features
 
